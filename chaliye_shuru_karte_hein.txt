@@ -1,0 +1,16 @@
+Challenge Name: Welcome Syndicate 
+
+Category: Misc
+Difficulty: Easy
+
+Description:
+Decode the string below to reveal the flag. This should be solvable at a glance.
+
+Encoded:
+TmFtYXN0ZXtoYWNrZXJfaml9
+
+Hint:
+It looks like a very common encoding used on the web.
+
+Flag format:
+Namaste{...}
